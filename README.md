@@ -14,7 +14,7 @@ cd heart-disease-mlops
 ```bash
 conda create -n ml_venv python=3.10
 conda activate ml_venv
-pip install pandas scikit-learn joblib matplotlib seaborn fastapi uvicorn
+pip install pandas scikit-learn joblib matplotlib seaborn fastapi uvicorn evidently
 ```
 
 
